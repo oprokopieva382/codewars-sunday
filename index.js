@@ -96,3 +96,4 @@ function productFib(prod) {
   }
   return [n, nPlus, n * nPlus === prod];
 }
+//Bouncing Balls
