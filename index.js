@@ -71,3 +71,4 @@ function dividedBy(b) {
     return Math.floor(a / b);
   };
 }
+//Directions Reduction
