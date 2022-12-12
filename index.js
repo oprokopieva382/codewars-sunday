@@ -2,3 +2,4 @@
 String.prototype.isUpperCase = function () {
   return this.toString() === this.toUpperCase();
 };
+//Who has the most money?
