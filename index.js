@@ -86,3 +86,4 @@ function dirReduc(arr) {
     []
   );
 }
+//Product of consecutive Fib numbers
